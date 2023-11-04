@@ -1,0 +1,17 @@
+div {
+    border: 8px solid  blue;
+    background-color: #FF6AC2;
+}
+
+/* Style the navigation links */
+div a {
+    margin-left: 90px;
+    margin-bottom:30px;
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+    background-color:white;
+}
+a:hover{
+    background-color:#7A9D54;
+}
